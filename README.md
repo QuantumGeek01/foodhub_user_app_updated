@@ -1,7 +1,6 @@
 # foodhub_user_app
 ![cs-12_successful](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/3ac8602d-0ca7-45c7-b4eb-aa0625f810b7)
 ![cs-11_addPayment](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/b74ea18f-07f6-40d7-b190-e29fff7a0567)
-![cs-10_chackout](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/843b2925-a604-4c1f-a472-668fd6a2991c)
 ![cs-7_search](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/1d89501f-d3c1-446c-a7a9-15c8f951ca84)
 ![cs-6_NaveBar](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/323a099d-b35a-40e2-9bfd-d6aca2ae7084)
 ![cs-5_homeScreen](https://github.com/QuantumGeek01/foodhub_user_app_updated/assets/136366279/07a28800-5fcd-4d3e-a600-3635c7bb6859)
